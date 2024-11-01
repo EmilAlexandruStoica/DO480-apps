@@ -26,4 +26,3 @@ spec:
           name: budget-app
       imagePullSecrets:
         - name: finance-dev-deployer-pull-secret
----
